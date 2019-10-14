@@ -16,3 +16,5 @@ mod 'stm/debconf',                                               '2.3.0'
 mod 'saz/timezone',                                              '5.0.2'
 mod 'puppetlabs-vcsrepo',                                        '3.0.0'
 mod 'puppet-nginx',                                              '1.0.0'
+
+mod 'autosign', :git => 'git://github.com/danieldreier/puppet-autosign.git', :commit => '17cefbde1c23ecd7e18bc1d3fe8c011d121a278c'
