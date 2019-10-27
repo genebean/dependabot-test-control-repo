@@ -14,7 +14,7 @@ gem 'puppet-lint-trailing_comma-check',                          '>= 0.4.1', '< 
 gem 'puppet-lint-unquoted_string-check',                         '~> 0.3'
 gem 'puppet-lint-variable_contains_upcase',                      '~> 1.2'
 gem 'puppet-lint-version_comparison-check',                      '~> 0.2'
-gem 'puppet-lint',                                               '~> 2.3.5'
+gem 'puppet-lint',                                               '~> 2.4.1'
 gem 'puppet-syntax',                                             '~> 2.4'
 gem 'puppet',                                                    '~> 6.0'
 gem 'puppetlabs_spec_helper',                                    '~> 2.11'
