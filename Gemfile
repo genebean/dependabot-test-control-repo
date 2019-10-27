@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'facets',                                                    '~> 3.1'
-gem 'hiera-eyaml',                                               '~> 2.1'
+gem 'hiera-eyaml',                                               '~> 3.0'
 gem 'json',                                                      '~> 2.1'
 gem 'nokogiri',                                                  '~> 1.8'
 gem 'onceover-codequality',                                      '~> 0.3'
