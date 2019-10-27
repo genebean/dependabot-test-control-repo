@@ -13,7 +13,7 @@ mod 'herculesteam/augeasproviders_core',                         '2.2.0'
 mod 'herculesteam/augeasproviders_ssh',                          '3.1.0'
 mod 'puppet/archive',                                            '3.2.1'
 mod 'stm/debconf',                                               '2.3.0'
-mod 'saz/timezone',                                              '5.0.2'
+mod 'saz/timezone',                                              '5.1.1'
 mod 'puppetlabs-vcsrepo',                                        '3.0.0'
 mod 'puppet-nginx',                                              '1.0.0'
 
