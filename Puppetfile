@@ -1,7 +1,7 @@
 forge 'forge.puppetlabs.com'
 
 # General purpose modules.
-mod 'puppetlabs/apt',                                            '6.3.0'
+mod 'puppetlabs/apt',                                            '7.1.0'
 mod 'puppetlabs/stdlib',                                         '5.2.0'
 mod 'puppetlabs/concat',                                         '4.2.1'
 mod 'puppetlabs/firewall',                                       '1.15.1'
